@@ -14,7 +14,7 @@
 
 ## 整体效果
 
-![show](D:\Projects\Student\show.jpg)
+![show](D:/Projects/Student/show.jpg)
 
 ## 文件结构
 
