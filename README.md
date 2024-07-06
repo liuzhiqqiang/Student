@@ -14,11 +14,7 @@
 
 ## 整体效果
 
-<<<<<<< HEAD
-![A](D:/Projects/Student/show.jpg)
-=======
-![show](D:/Projects/Student/show.jpg)
->>>>>>> eca13c6cae6352bc7db4247c0ebd86b7a43cacfa
+![](show.jpg)
 
 ## 文件结构
 
